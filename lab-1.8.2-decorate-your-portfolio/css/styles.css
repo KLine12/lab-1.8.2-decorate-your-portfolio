@@ -1,0 +1,29 @@
+
+/* Add a background color or image to your portfolio.*/
+/* Change the font of parts or all of your page.*/
+
+
+body {
+    background-color: rgb(158, 218, 158);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    /* Make your images more aesthetically appealing by giving them a border radius.*/
+    /* Add images to the images directory, reference them in your HTML, and give them a border color.*/
+    img {
+        border:2px solid orange;
+        border-radius: 10px;
+    }
+    
+    
+    /* Center certain parts of your content according to your liking.*/
+    H1 { text-align: center;
+    }
+    
+    
+    /* Give your page a new cursor.*/
+    div {
+        cursor:crosshair;
+    }
+    
+    
